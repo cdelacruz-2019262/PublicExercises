@@ -1,0 +1,14 @@
+
+button{
+    background-color: aliceblue;
+    margin: 4px;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+button:hover{
+    background-color: rgb(194, 180, 180) ;
+    margin: 4px;
+    border-radius: 5px;
+    border-color: gray;
+}
